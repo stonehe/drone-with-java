@@ -3,4 +3,4 @@ build:
   environment:
     - GRADLE_USER_HOME=~/.gradle
   commands:
-    - ./gradlew test
+    - ./gradlew clean test
